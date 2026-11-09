@@ -1,0 +1,42 @@
+{
+  "_comment": "Human-verified reference values for IMF Country Report No. 24/192 (Dominica 2024 Article IV). Page numbers are PDF page indices (1-based). VERIFY EACH VALUE AGAINST THE PDF YOURSELF and set verified_by_student to true.",
+  "verified_by_student": false,
+  "indicators": {
+    "gdp_growth_forecast_pct": {
+      "value": 4.6,
+      "accepted_alternatives": [],
+      "reference_year": "2024 (projection)",
+      "source": "Table 1. Selected Economic Indicators, row 'Real GDP', column 2024 (PDF p.4 and p.31)"
+    },
+    "headline_inflation_rate_pct": {
+      "value": 3.5,
+      "accepted_alternatives": [2.3],
+      "reference_year": "2023 (estimate)",
+      "source": "Table 1, Consumer prices: period average 3.5; end of period 2.3 (PDF p.4 and p.31)"
+    },
+    "central_bank_policy_rate_pct": {
+      "value": null,
+      "accepted_alternatives": [],
+      "reference_year": null,
+      "source": "Not reported. Monetary policy is run by the ECCB, a quasi-currency board (Informational Annex, PDF p.62); no policy rate is stated in the report."
+    },
+    "non_performing_loan_ratio": {
+      "value": 12.9,
+      "accepted_alternatives": [],
+      "reference_year": "2023",
+      "source": "Table 5a. Financial Stability Indicators - Commercial Banks, 'Nonperforming loans to total gross loans', 2023 (PDF p.36). NOTE: 13.41 is the CREDIT UNION figure (Table 5b)."
+    },
+    "unemployment_rate_pct": {
+      "value": 23.0,
+      "accepted_alternatives": [],
+      "reference_year": "2016",
+      "source": "Table 1 social indicators header, 'Unemployment rate (2016) 23' (PDF p.31). Stale data point."
+    },
+    "tier_1_capital_ratio": {
+      "value": null,
+      "accepted_alternatives": [],
+      "reference_year": null,
+      "source": "Not reported. Only 'Regulatory capital ratio' (total capital / RWA) is given: 27.51 for commercial banks in 2023 (Table 5a, PDF p.36)."
+    }
+  }
+}
